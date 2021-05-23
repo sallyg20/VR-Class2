@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grass With Leaves Material
+* source:	https://sketchfab.com/3d-models/grass-with-leaves-material-116229e75bc54c3c8f06834751d4bde6
+* author:	RBG_illustrations (https://sketchfab.com/StarkIndustries)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grass With Leaves Material" (https://sketchfab.com/3d-models/grass-with-leaves-material-116229e75bc54c3c8f06834751d4bde6) by RBG_illustrations (https://sketchfab.com/StarkIndustries) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

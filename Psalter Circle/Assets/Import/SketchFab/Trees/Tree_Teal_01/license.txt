@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tree Teal 01
+* source:	https://sketchfab.com/3d-models/tree-teal-01-81bb2cfee7324500b9f74b878ef68c3f
+* author:	jemmy (https://sketchfab.com/0esnn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tree Teal 01" (https://sketchfab.com/3d-models/tree-teal-01-81bb2cfee7324500b9f74b878ef68c3f) by jemmy (https://sketchfab.com/0esnn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
